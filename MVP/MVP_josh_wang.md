@@ -19,7 +19,6 @@ COVID data came from https://github.com/nytimes/covid-19-data
 **Preliminary visualization**:
 
 ![MTA](./MVP_MTA.png)
-
 Figure 1. Monthly MTA entries of all stations in NYC of 2019
 
 
