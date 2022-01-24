@@ -1,8 +1,8 @@
-
 # EDA MVP
 ## Exploring factors affecting NYC MTA ridership
 ##### Josh Wang
 ##### Jan 16 2022
+
 
 ---
 ### MVP Overview
